@@ -5,3 +5,7 @@ scikit-learn
 xgboost
 xlrd
 openpyxl
+flask
+joblib
+catboost
+lightgbm
