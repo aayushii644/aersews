@@ -1,6 +1,4 @@
-﻿Here is a **concise, GitHub-friendly README** — clean, scannable, and recruiter-ready.
-
-You can paste this directly into `README.md`.
+﻿
 
 ---
 
@@ -137,9 +135,3 @@ outputs/final_leaderboard.csv
 A clean, research-oriented regression benchmark project suitable for experimentation, extension, or deployment.
 
 ---
-
-If you'd like, I can also generate:
-
-* A **one-paragraph repo description** (for the GitHub “About” section)
-* A **CV-ready bullet summary**
-* Or a **badge-enhanced version** with shields.io badges
