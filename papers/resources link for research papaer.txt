@@ -1,0 +1,34 @@
+[1] Nithurshan, Mylvaganam, and Yogarajah Elakneswaran. "A systematic review and assessment of concrete strength prediction models." Case Studies in Construction Materials 18 (2023): e01830.
+
+[2] Li, Qing-Fu, and Zong-Ming Song. "High-performance concrete strength prediction based on ensemble learning." Construction and Building Materials 324 (2022): 126694.
+
+link: https://www.sciencedirect.com/science/article/abs/pii/S0950061822003841
+
+[3] Elhishi, Sara, Asmaa Mohammed Elashry, and Sara El-Metwally. "Unboxing machine learning models for concrete strength prediction using XAI." Scientific Reports 13, no. 1 (2023): 19892.
+link: https://www.nature.com/articles/s41598-023-47169-7
+
+[4] Beskopylny, Alexey N., Sergey A. Stel’makh, Evgenii M. Shcherban’, Levon R. Mailyan, Besarion Meskhi, Irina Razveeva, Andrei Chernil’nik, and Nikita Beskopylny. "Concrete strength prediction using machine learning methods CatBoost, k-nearest neighbors, support vector regression." Applied Sciences 12, no. 21 (2022): 10864.
+
+[5] Kumar, Aman, Harish Chandra Arora, Nishant Raj Kapoor, Mazin Abed Mohammed, Krishna Kumar, Arnab Majumdar, and Orawit Thinnukool. "Compressive strength prediction of lightweight concrete: Machine learning models." Sustainability 14, no. 4 (2022): 2404.
+
+[6] Elshaarawy, Mohamed Kamel, Mostafa M. Alsaadawi, and Abdelrahman Kamal Hamed. "Machine learning and interactive GUI for concrete compressive strength prediction." Scientific Reports 14, no. 1 (2024): 16694. 
+
+link: https://www.nature.com/articles/s41598-024-66957-3
+
+[7] Liu, Kexin, Lingyan Zhang, Weiguang Wang, Guozhi Zhang, Liuliu Xu, Dingqiang Fan, and Rui Yu. "Development of compressive strength prediction platform for concrete materials based on machine learning techniques." Journal of Building Engineering 80 (2023): 107977.
+
+link: https://www.sciencedirect.com/science/article/abs/pii/S2352710223021575
+
+[8] Liu, Gaoyang, and Bochao Sun. "Concrete compressive strength prediction using an explainable boosting machine model." Case Studies in Construction Materials 18 (2023): e01845.
+
+[9] Mansouri, Ehsan, Maeve Manfredi, and Jong-Wan Hu. "Environmentally friendly concrete compressive strength prediction using hybrid machine learning." Sustainability 14, no. 20 (2022): 12990.
+
+[10] Joshi, Deepa A., Radhika Menon, R. K. Jain, and Anju V. Kulkarni. "Deep learning based concrete compressive strength prediction model with hybrid meta-heuristic approach." Expert Systems with Applications 233 (2023): 120925.
+
+link: https://www.sciencedirect.com/science/article/abs/pii/S0957417423014276
+
+[11] Shaaban, Mohammed, Mohamed Amin, S. Selim, and Islam M. Riad. "Machine learning approaches for forecasting compressive strength of high-strength concrete." Scientific Reports 15, no. 1 (2025): 25567.
+
+[12] Le, Ba-Anh, Bao-Viet Tran, Thai-Son Vu, Viet-Hung Vu, and Van-Hung Nguyen. "Predicting the compressive strength of pervious cement concrete based on fast genetic programming method." Arabian Journal for Science and Engineering 49, no. 4 (2024): 5487-5504.
+
+link : https://link.springer.com/article/10.1007/s13369-023-08396-2
